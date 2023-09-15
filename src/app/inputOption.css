@@ -1,0 +1,18 @@
+.inputOption{
+    font-weight: bolder;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top:15px;
+}
+
+.inputOption:hover{
+    border-radius:10px;
+    background-color: whitesmoke;
+}
+
+.inputOption > p{
+    color: gray;
+    margin-left:5px;
+
+}
